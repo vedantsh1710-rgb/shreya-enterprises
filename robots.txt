@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vedantsh1710-rgb.github.io/shreya-enterprises/sitemap.xml
